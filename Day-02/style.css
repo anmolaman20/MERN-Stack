@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+#ttext{
+    text-align: center;
+    background-color: rgb(115, 190, 196);
+    border: rgb(226, 9, 128);
+    border-radius: 5px;
+    border-style: dashed;
+}
+#ttext2{
+    text-align: center;
+    background-color: rgb(115, 190, 196);
+    border: rgb(226, 9, 128);
+    border-radius: 5px;
+    border-style: dashed;
+}
