@@ -1,0 +1,32 @@
+.signup{
+    /* background-color: aqua; */
+    background-image: url("../images/signup1.jpg");
+    text-align: center;
+    margin-top: 120px;
+    color: black;
+}
+.login{
+    /* background-color: rgb(152, 179, 79); */
+    background-image: url("../images/login2.jpg");
+    background-repeat: no-repeat;
+    text-align: left;
+    margin: 180px;
+    color: rgb(245, 20, 65);
+}
+.home{
+    background-image: url("../images/home.jpg");
+    text-align: center;
+    margin-top: 50px;
+    color: snow;
+}
+#h1{
+    border: 2px solid red;
+    width: 50px;
+}
+#color{
+    color: chartreuse;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
